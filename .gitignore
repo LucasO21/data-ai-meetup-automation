@@ -9,7 +9,6 @@ dist/
 .gauth.json
 .accounts.json
 .credentials/
-NEW_FEATURES.md
 docs/portfolio-writeup.md
 .vscode
 .claude/
