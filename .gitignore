@@ -1,0 +1,16 @@
+.env
+.envrc
+.mcp.json
+node_modules/
+logs/
+state/
+dist/
+*.js.map
+.gauth.json
+.accounts.json
+.credentials/
+NEW_FEATURES.md
+docs/portfolio-writeup.md
+.vscode
+.claude/
+.cursor/
